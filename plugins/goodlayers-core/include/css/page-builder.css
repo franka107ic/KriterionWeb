@@ -3355,7 +3355,7 @@
 
 .gdlr-core-course-item.gdlr-core-course-style-list-info
   .gdlr-core-course-item-id {
-  color: #0082fa;
+  color: #7678ed;
 }
 
 .gdlr-core-course-item.gdlr-core-course-style-list-info
@@ -3372,7 +3372,7 @@
   .gdlr-core-course-item-button,
 .gdlr-core-course-item.gdlr-core-course-style-list-info
   .gdlr-core-course-item-button:hover {
-  background-color: #0082fa;
+  background-color: #7678ed;
   color: #fff;
 }
 
@@ -8234,7 +8234,8 @@ ul.gdlr-core-twitter-content-list li:last-child {
 
 .gdlr-core-newsletter-item.gdlr-core-style-rectangle
   .gdlr-core-newsletter-submit
-  input[type="submit"] {
+  input[type="submit"]
+   {
   display: block;
   width: 100%;
   font-size: 15px;
@@ -8506,7 +8507,7 @@ ul.gdlr-core-product-sub-category li h3 {
 }
 
 .gdlr-core-body .gdlr-core-course-form input[type="submit"] {
-  background: #0082fa;
+  background: #7678ed;
 }
 
 .gdlr-core-course-form input::-webkit-input-placeholder {

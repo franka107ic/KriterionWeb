@@ -420,7 +420,7 @@ body .page-links > span,
 body .page-links > a:hover,
 body .nav-links > span.current,
 body .nav-links > a:hover {
-  background-color: #0082fa;
+  background-color: #7678ed;
   color: #fff;
 }
 
@@ -782,7 +782,7 @@ input[type="reset"]:focus {
 }
 
 .kingster-body .kingster-top-bar .kingster-top-bar-right-button {
-  background: #0082fa;
+  background: #7678ed;
   color: #fff;
 }
 
@@ -2102,7 +2102,6 @@ html.mm-opened body.admin-bar .kingster-header-side-nav {
 /* fixed nav bar */
 
 .kingster-logo-inner {
-  transition: max-width 200ms;
   -moz-transition: max-width 200ms;
   -o-transition: max-width 200ms;
   -webkit-transition: max-width 200ms;
@@ -6197,7 +6196,7 @@ body .tribe-bar-views-inner {
 }
 
 #gdlr-core-button-id-66813:hover {
-  color: #0082fa;
+  color: #7678ed;
 }
 
 @media only screen and (max-width: 767px) {
@@ -6226,7 +6225,7 @@ body .tribe-bar-views-inner {
 }
 
 #gdlr-core-title-item-id-66469 .gdlr-core-title-item-title a {
-  color: #0082fa;
+  color: #7678ed;
 }
 
 #gdlr-core-title-item-id-66469 .gdlr-core-title-item-title a:hover {
@@ -6234,7 +6233,7 @@ body .tribe-bar-views-inner {
 }
 
 #gdlr-core-title-item-id-42777 .gdlr-core-title-item-title a {
-  color: #0082fa;
+  color: #7678ed;
 }
 
 #gdlr-core-title-item-id-42777 .gdlr-core-title-item-title a:hover {
@@ -6242,7 +6241,7 @@ body .tribe-bar-views-inner {
 }
 
 #gdlr-core-title-item-id-51281 .gdlr-core-title-item-title a {
-  color: #0082fa;
+  color: #7678ed;
 }
 
 #gdlr-core-title-item-id-51281 .gdlr-core-title-item-title a:hover {
@@ -6250,7 +6249,7 @@ body .tribe-bar-views-inner {
 }
 
 #gdlr-core-title-item-id-78243 .gdlr-core-title-item-title a {
-  color: #0082fa;
+  color: #7678ed;
 }
 
 #gdlr-core-title-item-id-78243 .gdlr-core-title-item-title a:hover {
@@ -6258,7 +6257,7 @@ body .tribe-bar-views-inner {
 }
 
 #gdlr-core-title-item-id-14842 .gdlr-core-title-item-title a {
-  color: #0082fa;
+  color: #7678ed;
 }
 
 #gdlr-core-title-item-id-14842 .gdlr-core-title-item-title a:hover {
@@ -6266,7 +6265,7 @@ body .tribe-bar-views-inner {
 }
 
 #gdlr-core-title-item-id-33183 .gdlr-core-title-item-title a {
-  color: #0082fa;
+  color: #7678ed;
 }
 
 #gdlr-core-title-item-id-33183 .gdlr-core-title-item-title a:hover {
@@ -6315,7 +6314,7 @@ body .tribe-bar-views-inner {
 }
 
 .filter a.active {
-  color: #0082fa !important;
+  color: #7678ed !important;
 }
 
 .input1 {
@@ -6358,7 +6357,7 @@ body .tribe-bar-views-inner {
   width: 100%;
   display: block;
   -webkit-appearance: none;
-  background-color: #0082fa;
+  background-color: #7678ed;
   border: 0;
   color: #fff;
   font-style: normal !important;
